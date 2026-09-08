@@ -35,3 +35,18 @@ An end-to-end Python data pipeline that scrapes live weather data from global ci
    git checkout -b "scrapingbranch"
 3. **Create a folder called "WEB SCRAPING"**
 4. **Create a main file called "cities.py"**
+
+
+## Screenshots
+<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/56eea19e-15db-4128-84d0-583e9eb9a9ac" />
+
+<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/0b7136ab-a86d-42b4-8d02-008be2340e5f" />
+
+<img width="1725" height="1114" alt="image" src="https://github.com/user-attachments/assets/88f35c40-4457-4a63-b17b-7421dff6b741" />
+
+<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/57c74123-5e0e-4324-872e-7bed078d58dc" />
+
+<img width="1718" height="1117" alt="image" src="https://github.com/user-attachments/assets/b2aeac08-3fc2-4843-8484-7764fb20e3b6" />
+
+
+
